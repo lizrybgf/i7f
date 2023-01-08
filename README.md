@@ -4,6 +4,7 @@
 <title>Классное мероприятие</title>
 </head>
 <body background="http://orangehat.com.mx/wp-content/uploads/2012/07/FreeGreatPicture.com-18380-hd-color-background-wallpaper1.jpg">
+<main>
 <h1 align="center"><B>Внимание, внимание! Конкурс!</B></h1>
 <br>
 <h2 align="left"><font color="black"><b>Подробное описание конкурса и критериев оценивания
@@ -130,6 +131,6 @@
 
 <tr>
 <th><img src="https://zabavnik.club/wp-content/uploads/2018/01/pozdravitelnye_kartinki_14_24043857.jpg" width="10%" hight="10%"></th></tr></table>
-
+</main>
 </body>
 </html>
